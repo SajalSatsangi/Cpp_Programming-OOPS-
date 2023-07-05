@@ -1,0 +1,11 @@
+How to revervse given string in place
+How to print duplicate char from string
+How to check string contain only digit
+How to count consonant and vowel
+print freuqncy a to z
+print first not repeted char
+Chaeck string palidrome
+longest word in a string
+Remove dubplicate
+Print highest occurence char
+How to remove a given char from a string

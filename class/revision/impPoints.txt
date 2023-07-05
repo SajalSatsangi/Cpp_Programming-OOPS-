@@ -1,0 +1,1 @@
+encapsulation , constructor initialization method
