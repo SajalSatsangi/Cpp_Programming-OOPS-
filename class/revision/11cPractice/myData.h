@@ -10,6 +10,7 @@ namespace mySpace
     int roll;
     string name;
 
+  public:
     Student(int roll, string name) : roll(roll), name(name)
     {
     }
